@@ -49,4 +49,4 @@ To create a platform for Manoa students to find what food is available on campus
 
 <img src="/screencaps/toppick.png">
 
-<h2 href="https://github.com/munchyco/manoa-munchies">GITHUB</h2>
+<a href="https://github.com/munchyco/manoa-munchies">GITHUB</a>

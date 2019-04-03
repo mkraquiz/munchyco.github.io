@@ -29,7 +29,7 @@ To create a platform for Manoa students to find what food is available on campus
 
 - Vendor home page
 
-<img src="/screencaps/vendorhomepage.png">
+<img src="/screencaps/venderhomepage.png">
 - Admin home page
 - Add Vendor page
 - User profile page

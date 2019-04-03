@@ -1,3 +1,6 @@
+Manoa Munchies by Munchyco
+======
+
 [comment]: <> (To begin with, the home page should provide a good description of the goals of the project, what the system should eventually provide, and screen shots of the mockup pages you plan to use as a basis for your final project.)
 
 # Goals

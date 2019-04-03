@@ -30,11 +30,14 @@ To create a platform for Manoa students to find what food is available on campus
 - Vendor home page
 
 <img src="/screencaps/venderhomepage.png">
+
+- Today’s top picks page
+
+<img src="/screencaps/toppick.png">
+
 - Admin home page
 - Add Vendor page
 - User profile page
 - Foods available right now page
-- Today’s top picks page
-<img src="/screencaps/toppick.png">
 
 

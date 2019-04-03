@@ -20,6 +20,9 @@ To create a platform for Manoa students to find what food is available on campus
 (Screenshots forthcoming)
 
 - Landing page
+
+<img src="/screencaps/landingpage.png">
+
 - User home page
 - Vendor home page
 - Admin home page

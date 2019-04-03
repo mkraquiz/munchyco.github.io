@@ -35,5 +35,6 @@ To create a platform for Manoa students to find what food is available on campus
 - User profile page
 - Foods available right now page
 - Today’s top picks page
+<img src="/screencaps/toppick.png">
 
 

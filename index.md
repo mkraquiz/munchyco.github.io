@@ -1,6 +1,3 @@
-Manoa Munchies by Munchyco
-======
-
 [comment]: <> (To begin with, the home page should provide a good description of the goals of the project, what the system should eventually provide, and screen shots of the mockup pages you plan to use as a basis for your final project.)
 
 # Goals
@@ -51,3 +48,5 @@ To create a platform for Manoa students to find what food is available on campus
 - Foods available right now page
 
 <img src="/screencaps/toppick.png">
+
+<h2 href="https://github.com/munchyco/manoa-munchies">GITHUB</h2>

@@ -76,3 +76,7 @@ To create a platform for Manoa students to find what food is available on campus
 - User profile page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/#/user</a>
 
 <img src="/screencaps/galaxyuserprofile.png">
+
+## Contact Us
+
+:) 

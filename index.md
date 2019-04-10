@@ -57,7 +57,7 @@ To create a platform for Manoa students to find what food is available on campus
 
 ## Galaxy Pages (UPDATED AS OF APRIL 9TH 2019)
 
-- Landing page
+- Landing page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/</a>
 
 <img src="/screencaps/landingpageGALAXY.png">
 

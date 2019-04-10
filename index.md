@@ -17,6 +17,10 @@ To create a platform for Manoa students to find what food is available on campus
 - Integrating Sales/Coupons/Limited Time offers
 - Food truck location data from Twitter/GPS(if offered)
 
+## Milestone 1: <a href="https://github.com/munchyco/manoa-munchies/projects/1">https://github.com/munchyco/manoa-munchies/projects/1</a>
+
+## Milestone 2: <a href="https://github.com/munchyco/manoa-munchies/projects/2">https://github.com/munchyco/manoa-munchies/projects/2</a>
+
 ## Mockup Pages
 
 (Screenshots forthcoming)
@@ -51,4 +55,12 @@ To create a platform for Manoa students to find what food is available on campus
 
 <img src="/screencaps/toppick.png">
 
+## Galaxy Pages (UPDATED AS OF APRIL 9TH 2019)
 
+- Landing page
+
+<img src="/screencaps/landingpageGALAXY.png">
+
+- User home page
+
+<img src="/screencaps/userhomepageGALAXY.png">

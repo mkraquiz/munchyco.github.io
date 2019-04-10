@@ -69,10 +69,10 @@ To create a platform for Manoa students to find what food is available on campus
 
 <img src="/screencaps/galaxytoppick.png">
 
-- Add Vendor page<a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/#/add</a>
+- Add Vendor page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/#/add</a>
 
 <img src="/screencaps/galaxyadd.png">
 
-- User profile page<a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/#/user</a>
+- User profile page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/#/user</a>
 
 <img src="/screencaps/galaxyuserprofile.png">

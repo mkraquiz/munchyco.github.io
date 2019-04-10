@@ -59,8 +59,16 @@ To create a platform for Manoa students to find what food is available on campus
 
 - Landing page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/</a>
 
-<img src="/screencaps/landingpageGALAXY.png">
-
 - User home page
 
-<img src="/screencaps/userhomepageGALAXY.png">
+- Vendor home page
+
+- Today’s top picks page
+
+- Admin home page
+
+- Add Vendor page
+
+- User profile page
+
+- Foods available right now page

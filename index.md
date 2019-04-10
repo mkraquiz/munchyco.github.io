@@ -1,5 +1,7 @@
 [comment]: <> (To begin with, the home page should provide a good description of the goals of the project, what the system should eventually provide, and screen shots of the mockup pages you plan to use as a basis for your final project.)
 
+## Project Page :<a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/</a>
+
 # Goals
 
 To create a platform for Manoa students to find what food is available on campus, and cater that information to their personal preferences as well as the current time/date.

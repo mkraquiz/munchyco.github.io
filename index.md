@@ -61,7 +61,7 @@ To create a platform for Manoa students to find what food is available on campus
 
 <img src="/screencaps/galaxylandingpage.png">
 
-- Vendor home page <a href="http://munchiesmanoa.meteorapp.com/#/user">http://munchiesmanoa.meteorapp.com/#/user</a>
+- Vendor home page <a href="http://munchiesmanoa.meteorapp.com/#/user">http://munchiesmanoa.meteorapp.com/#/vendorhome</a>
 
 <img src="/screencaps/galaxyvendor.png">
 

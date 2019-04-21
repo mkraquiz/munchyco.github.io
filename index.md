@@ -4,7 +4,7 @@
 
 # Overview 
 
-manoa munchies is a directory for students to find food 
+manoa munchies™ is a directory for students to find food on campus that they might enjoy based on their preferences. Here they are able to discover a selection of vendors and information such as open hours, location, and menu items. 
 
 # Goals
 
@@ -62,7 +62,7 @@ To create a platform for Manoa students to find what food is available on campus
 
 <img src="/screencaps/toppick.png">
 
-## Galaxy Pages (UPDATED AS OF APRIL 9TH 2019)
+## Galaxy Pages (UPDATED AS OF APRIL 21ST 2019)
 
 - Landing page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/</a>
 

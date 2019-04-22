@@ -66,40 +66,49 @@ To create a platform for Manoa students to find what food is available on campus
 
 - Landing page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/</a>
 
-<img src="/screencaps/galaxylandingpage.png">
+<img src="/screencaps/galaxylanding4-22.png">
 
 - User Home Page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/#/userhome</a>
 
-<img src="/screencaps/galaxyuserhomepage.png">
+<img src="/screencaps/galaxyuserhome4-22.png">
 
-- Vendor home page <a href="http://munchiesmanoa.meteorapp.com/#/user">http://munchiesmanoa.meteorapp.com/#/vendorhome</a>
+- Vendor List page <a href="http://munchiesmanoa.meteorapp.com/#/user">http://munchiesmanoa.meteorapp.com/#/vendorhome</a>
 
-<img src="/screencaps/galaxyvendor.png">
+<img src="/screencaps/galaxyvendorlist4-22.png">
 
 - Today’s top picks page <a href="http://munchiesmanoa.meteorapp.com/#/toppick">http://munchiesmanoa.meteorapp.com/#/toppick</a>
 
-<img src="/screencaps/galaxytoppick.png">
+<img src="/screencaps/galaxytoppick4-22.png">
 
 - Add Vendor page <a href="http://munchiesmanoa.meteorapp.com/#/add">http://munchiesmanoa.meteorapp.com/#/add</a>
 
-<img src="/screencaps/galaxyadd.png">
+<img src="/screencaps/galaxyadd4-22.png">
 
 - User profile page <a href="http://munchiesmanoa.meteorapp.com/#/user">http://munchiesmanoa.meteorapp.com/#/user</a>
 
-<img src="/screencaps/galaxyuserprofile.png">
+<img src="/screencaps/galaxyuser4-22.png">
 
 ## User Guide
 
 Users will be welcomed to the manoa munchies landing page to there they are able to register a free account or log in if they are already registered.
 
-<img src="/screencaps/galaxylandingpage.png">
+<img src="/screencaps/galaxylanding4-22.png">
 
 After registering or logging in, users will be redirected to the user home page where they may begin using the manoa munchies system. 
 
-<img src="/screencaps/galaxyuserhomepage.png">
+<img src="/screencaps/galaxyuserhome4-22.png">
 
+Now to get the most usability out of munchies manoa, you can begin by filling out your profile Preferences. Depending on what you choose, manoa munchies can provide a better selection suited for you.
 
+<img src="/screencaps/galaxyuser4-22.png">
 
+manoa munchies also provides a top picks of vendors for people who are a bit unsure of what to eat and maybe want a recommendation.
+
+<img src="/screencaps/galaxytoppick4-22.png">
+
+Here is a list of all our vendors that you may choose from. More will be added in the future.
+
+<img src="/screencaps/galaxyvendorlist4-22.png">
 
 ## Developer Guide: Installation (MAC)
 
@@ -109,21 +118,17 @@ To get manoa munchies setup in a local environment, you must have the latest ver
 
 2. Clone the repository to GitHub Desktop.
 
-
-
 3. Right click the repository and click "Open with Terminal"
 
 <img src="/screencaps/DevGuide-RightClick.png" width="300">
 
-4. In the terminal, type `meteor npm install` to install the needed plugins to run the app.
+4. Once in the terminal, type `cd app` to change directory to the app folder.
 
+5. In the app folder, type `meteor npm install` to install the needed plugins to run the app.
 
+6. Next, type `meteor npm run start` to run the program. This should take a bit.
 
-5. Next, type `meteor npm run start` to run the program. This should take a bit.
-
-
-
-6. Congrats! Your app should now be hosted locally at http://localhost:3000. 
+7. Congrats! Your app should now be hosted locally at http://localhost:3000. 
 
 
 ## Developer Guide: Installation (WINDOWS)
@@ -132,10 +137,22 @@ To get manoa munchies setup in a local environment, you must have the latest ver
 
 2. Clone the repository to GitHub Desktop.
 
+3. Right click the repository and click "Open with Command Prompt"
+
+<img src="/screencaps/windows-rightclick.png" width="300">
+
+4. Once in the cmd, type `cd app` to change directory to the app folder.
+
+5. In the app folder, type `meteor npm install` to install the needed plugins to run the app.
+
+6. Next, type `meteor npm run start` to run the program. This should take a bit.
+
+7. Congrats! Your app should now be hosted locally at http://localhost:3000. 
+
 
 ## Developer Guide: Modifying the Code
 
-
+It is highly recommended to use a software such as IntelliJ to edit and modify manoa munchies. Once acquiring the necessary software, majority of the components and functionality is located in the "client" and "imports" folder. 
 
 ## Contact Us
 

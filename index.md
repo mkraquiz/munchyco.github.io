@@ -68,7 +68,7 @@ To create a platform for Manoa students to find what food is available on campus
 
 <img src="/screencaps/galaxylandingpage.png">
 
-- User Home Page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/userhome</a>
+- User Home Page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/#/userhome</a>
 
 <img src="/screencaps/galaxyuserhomepage.png">
 
@@ -76,15 +76,15 @@ To create a platform for Manoa students to find what food is available on campus
 
 <img src="/screencaps/galaxyvendor.png">
 
-- Today’s top picks page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/toppick</a>
+- Today’s top picks page <a href="http://munchiesmanoa.meteorapp.com/#/toppick">http://munchiesmanoa.meteorapp.com/#/toppick</a>
 
 <img src="/screencaps/galaxytoppick.png">
 
-- Add Vendor page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/#/add</a>
+- Add Vendor page <a href="http://munchiesmanoa.meteorapp.com/#/add">http://munchiesmanoa.meteorapp.com/#/add</a>
 
 <img src="/screencaps/galaxyadd.png">
 
-- User profile page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/#/user</a>
+- User profile page <a href="http://munchiesmanoa.meteorapp.com/#/user">http://munchiesmanoa.meteorapp.com/#/user</a>
 
 <img src="/screencaps/galaxyuserprofile.png">
 
@@ -113,7 +113,7 @@ To get manoa munchies setup in a local environment, you must have the latest ver
 
 3. Right click the repository and click "Open with Terminal"
 
-
+<img src="/screencaps/DevGuide-RightClick.png" width="300">
 
 4. In the terminal, type `meteor npm install` to install the needed plugins to run the app.
 

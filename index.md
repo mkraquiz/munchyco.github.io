@@ -4,7 +4,7 @@
 
 # Overview 
 
-manoa munchies™ is a directory for students to find food on campus they might enjoy based on their preferences. Here they are able to discover a selection of vendors as well as their information on hours of operation and location. 
+manoa munchies™ is a directory for students to find food on campus they might enjoy based on their preferences. Here they are able to discover a selection of vendors as well as their information on hours of operation and location. Being a team of hardworking college students ourselves, we thought that every student should have a reliable and pleasant experience of finding places where they can eat. Because after all, food is what brings us together and keeps us going in this tough college life.
 
 # Goals
 

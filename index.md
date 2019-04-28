@@ -1,12 +1,20 @@
 [comment]: <> (To begin with, the home page should provide a good description of the goals of the project, what the system should eventually provide, and screen shots of the mockup pages you plan to use as a basis for your final project.)
 
+* [Project Goals](#project-goals)
+* [Milestones](#milestones)
+* [Mockups](#mockups)
+* [Galaxy Pages](#galaxy-pages)
+* [User Guide](#user-guide)
+* [Installation](#installation)
+* [Community Feedback](#community-feedback)
+
 ## Project Page: <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/</a>
 
 # Overview 
 
 manoa munchies™ is a directory for students to find food on campus they might enjoy based on their preferences. Here they are able to discover a selection of vendors as well as their information on hours of operation and location. Being a team of hardworking college students ourselves, we thought that every student should have a reliable and pleasant experience of finding places where they can eat. Because after all, food is what brings us together and keeps us going in this tough college life.
 
-# Goals
+# Project Goals
 
 To create a platform for Manoa students to find what food is available on campus, and cater that information to their personal preferences as well as the current time/date.
 
@@ -21,15 +29,15 @@ To create a platform for Manoa students to find what food is available on campus
 - Integrating Sales/Coupons/Limited Time offers
 - Food truck location data from Twitter/GPS(if offered)
 
-## Milestone 1: <a href="https://github.com/munchyco/manoa-munchies/projects/1">https://github.com/munchyco/manoa-munchies/projects/1</a>
+# Milestones
 
-## Milestone 2: <a href="https://github.com/munchyco/manoa-munchies/projects/2">https://github.com/munchyco/manoa-munchies/projects/2</a>
+## Milestone 1: <a href="https://github.com/munchyco/manoa-munchies/projects/1">Click Here</a>
 
-## Milestone 3: <a href="https://github.com/munchyco/manoa-munchies/projects/3">https://github.com/munchyco/manoa-munchies/projects/3</a>
+## Milestone 2: <a href="https://github.com/munchyco/manoa-munchies/projects/2">Click Here</a>
 
-## Mockup Pages
+## Milestone 3: <a href="https://github.com/munchyco/manoa-munchies/projects/3">Click Here</a>
 
-(Screenshots forthcoming)
+# Mockups
 
 - Landing page
 
@@ -47,10 +55,6 @@ To create a platform for Manoa students to find what food is available on campus
 
 <img src="/screencaps/toppick.png">
 
-- Admin home page
-
-
-
 - Add Vendor page
 
 <img src="/screencaps/addvendorpage.png">
@@ -62,7 +66,8 @@ To create a platform for Manoa students to find what food is available on campus
 
 <img src="/screencaps/toppick.png">
 
-## Galaxy Pages (UPDATED AS OF APRIL 21ST 2019)
+# Galaxy Pages 
+(UPDATED AS OF APRIL 21ST 2019)
 
 - Landing page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/</a>
 
@@ -88,7 +93,7 @@ To create a platform for Manoa students to find what food is available on campus
 
 <img src="/screencaps/galaxyuser4-22.png">
 
-## User Guide
+# User Guide
 
 Users will be welcomed to the manoa munchies landing page to there they are able to register a free account or log in if they are already registered.
 
@@ -109,6 +114,8 @@ manoa munchies also provides a top picks of vendors for people who are a bit uns
 Here is a list of all our vendors that you may choose from. More will be added in the future.
 
 <img src="/screencaps/galaxyvendorlist4-22.png">
+
+# Installation
 
 ## Developer Guide: Installation (MAC)
 
@@ -153,6 +160,10 @@ To get manoa munchies setup in a local environment, you must have the latest ver
 ## Developer Guide: Modifying the Code
 
 It is highly recommended to use a software such as IntelliJ to edit and modify manoa munchies. Once acquiring the necessary software, majority of the components and functionality is located in the "client" and "imports" folder. 
+
+# Community Feedback
+
+We have asked five people to review manoa munchies and give their honest opinion about it. Here's what they have to say.
 
 ## Contact Us
 

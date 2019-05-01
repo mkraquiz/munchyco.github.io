@@ -71,27 +71,27 @@ To create a platform for Manoa students to find what food is available on campus
 
 - Landing page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/</a>
 
-<img src="/screencaps/galaxylanding4-22.png">
+<img src="/screencaps/landingpage5-1.png">
 
 - User Home Page <a href="http://munchiesmanoa.meteorapp.com/">http://munchiesmanoa.meteorapp.com/#/userhome</a>
 
-<img src="/screencaps/galaxyuserhome4-22.png">
+<img src="/screencaps/userhome5-1.png">
 
 - Vendor List page <a href="http://munchiesmanoa.meteorapp.com/#/user">http://munchiesmanoa.meteorapp.com/#/vendorhome</a>
 
-<img src="/screencaps/galaxyvendorlist4-22.png">
+<img src="/screencaps/vendorlist5-1.png">
 
 - Today’s top picks page <a href="http://munchiesmanoa.meteorapp.com/#/toppick">http://munchiesmanoa.meteorapp.com/#/toppick</a>
 
-<img src="/screencaps/galaxytoppick4-22.png">
+<img src="/screencaps/toppicks5-1.png">
 
 - Add Vendor page <a href="http://munchiesmanoa.meteorapp.com/#/add">http://munchiesmanoa.meteorapp.com/#/add</a>
 
-<img src="/screencaps/galaxyadd4-22.png">
+<img src="/screencaps/addvendor5-1.png">
 
 - User profile page <a href="http://munchiesmanoa.meteorapp.com/#/user">http://munchiesmanoa.meteorapp.com/#/user</a>
 
-<img src="/screencaps/galaxyuser4-22.png">
+<img src="/screencaps/userprofile5-1.png">
 
 # User Guide
 

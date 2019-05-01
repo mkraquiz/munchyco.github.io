@@ -163,7 +163,28 @@ It is highly recommended to use a software such as IntelliJ to edit and modify m
 
 # Community Feedback
 
-We have asked five people to review manoa munchies and give their honest opinion about it. Here's what they have to say.
+We have requested five anonymous people to review manoa munchies and give their honest opinion about it. Here's what they have to say about our app.
+
+"At first glance, the website is pretty well put together with a modular design. Some improvements would be to modify the header and navigation bar to stand out more. As for the functionality, if possible I would like to see a review system for the Vendors from the Customers. Overall I was very satisfied with the app."
+
+- Experimentee #1
+
+""
+
+- Experimentee #2
+
+""
+
+- Experimentee #3
+
+""
+
+- Experimentee #4
+
+""
+
+- Experimentee #5
+
 
 ## Contact Us
 

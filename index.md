@@ -175,11 +175,11 @@ We have requested five anonymous people to review manoa munchies and give their 
 
 ## Experimentee #3
 
-""
+"Looking at the first page you're directed to on the website, I like how it's not too flashy and has a very clean look. The short description helps as well. With that being said, dont be afraid to add a little more to make it took interesting. If you go for that minimalist theme it can sometimes leave your website looking very barebones. As for functionality, the features provided on manoa munchies are pretty good, but once again there's always room for more features. One thing I would like to see is a sort of "Google Maps" type of feature where every Vendor could be easily located through there when clicking on their vendor. Aside from that I like it! "
 
 ## Experimentee #4
 
-""
+"My impression of manoa munchies at first was OK. I do like the concept of being able to find foods you like based on your own preferences but the website has to entice me to eat. I would say that the website itself is not necessarily food themed, but, nontheless it does provide a good pavement to showcase its features. As for the features, they are good as it is but they can definitely be improved. "
 
 ## Experimentee #5
 

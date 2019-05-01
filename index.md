@@ -183,7 +183,7 @@ We have requested five anonymous people to review manoa munchies and give their 
 
 ## Experimentee #5
 
-""
+"Looks nice. Some issues I've had though were that i did get some errors navigating between pages and it would ask me to log in again. As for improvements the database could add more foods as well as extra information such as sizes for certain food and drinks. Maybe some possible new features would be Search functionality to account for a larger vendor selection in the future and maybe a food review system."
 
 ## Contact Us
 

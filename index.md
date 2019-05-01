@@ -171,7 +171,7 @@ We have requested five anonymous people to review manoa munchies and give their 
 
 ## Experimentee #2
 
-""
+"It's aesthetically pleasing, and not too crowded with many links and the interface is fairly easy to navigate. Some potential improvements may be to organize the drop down menu for Food Types in Add Vendors, a bit more description dedicated to the purpose of the pages, and some clean up here and there."
 
 ## Experimentee #3
 
